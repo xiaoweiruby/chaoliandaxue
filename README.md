@@ -5,6 +5,20 @@
 ![img](https://ws3.sinaimg.cn/large/006tNbRwgy1futz4lcxijj31eo0hgnpd.jpg)
 
 ```
+前端网页展示样式：
+https://coder-lg.github.io/superx/index.html
+后端合约功能体系：
+前端 + 后端 合约理解不够，失败！
+```
+
+想要实现是 在 nervos 钱包中提交 课程，然后支付 token，完成数据的上链完成定价，使用 token 完成课程的购买，完成 token 的自动化分配，合约的逻辑没有理解清晰，后续还需要针对于合约完成进一步的梳理；
+```
+1、提交合约：数据合约的提交的数据合约；
+2、购买合约：课程购买的数据合约的支付
+3、分配合约：代币合约的自动的实现转账；
+```
+
+```
 肖威洞察 | 基于 Nervos 开发 DApp 表白数据上链
 https://www.jianshu.com/p/073d9531fe51
 ```
