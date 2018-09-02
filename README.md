@@ -24,10 +24,11 @@ https://coder-lg.github.io/superx/index.html
 代币合约的自动的实现转账；
 
 
-```
+
 肖威洞察 | 基于 Nervos 开发 DApp 表白数据上链
+
 https://www.jianshu.com/p/073d9531fe51
-```
+
 
 在这个过程中，其实需要解决的是如何将我们的应用完成部署的问题，然后在这个维度体系里面思考的是两个方面的内容的体系：
 
@@ -54,6 +55,7 @@ https://www.jianshu.com/p/073d9531fe51
 在教育的体系当中，如何证明这个人事表现好的状态，其实就是对于一些数字的表现和结果的表现完成定性和定量的分析，从而制定相适应的代币策略。
 
 参考文档：
+
 开发第一个 Nervos Dapp
 https://www.jianshu.com/p/8d5a7d52cd2d
 
