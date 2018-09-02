@@ -9,6 +9,8 @@
 
 https://coder-lg.github.io/superx/index.html
 
+http://superxschool.com/
+
 ```
 后端合约功能体系：
 前端 + 后端 合约理解不够，失败！
