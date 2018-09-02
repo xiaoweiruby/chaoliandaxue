@@ -52,3 +52,13 @@ https://www.jianshu.com/p/073d9531fe51
 在游戏的逻辑体系来看，使用的场景非常的清晰，我们具备代币可以购买虚拟的游戏的服务，然后在这个过程汇总如果有好的表现就可以完成代币的奖励，如果从游戏的娱乐的体验过度到教育的体验的关键，其实就是代币购买知识服务，表现好的个体完成代币的奖励，代币上交易所，然后完成法币的兑换。
 
 在教育的体系当中，如何证明这个人事表现好的状态，其实就是对于一些数字的表现和结果的表现完成定性和定量的分析，从而制定相适应的代币策略。
+
+参考文档：
+开发第一个 Nervos Dapp
+https://www.jianshu.com/p/8d5a7d52cd2d
+
+召唤神龙 Summon the Dragons!
+https://www.jianshu.com/p/785438a4e827
+
+BitRun Hackathon
+https://www.jianshu.com/p/c9c06cc99c0a
