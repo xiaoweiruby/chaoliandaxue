@@ -54,7 +54,11 @@ https://www.jianshu.com/p/073d9531fe51
 
 在教育的体系当中，如何证明这个人事表现好的状态，其实就是对于一些数字的表现和结果的表现完成定性和定量的分析，从而制定相适应的代币策略。
 
-参考文档：
+# 参考文档：
+
+Team：MetaWorld
+
+Members：谢晋、肖毅、刘书、林勤、廖雨橙、邓小聪
 
 开发第一个 Nervos Dapp
 https://www.jianshu.com/p/8d5a7d52cd2d
