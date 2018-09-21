@@ -1,11 +1,13 @@
 # 超链大学
 
-我们想要构建一个在 Nervos 上的知识服务的 DApp
+我们想要构建一个在 链上 的知识服务的 DApp
 
 ![img](https://ws3.sinaimg.cn/large/006tNbRwgy1futz4lcxijj31eo0hgnpd.jpg)
 
 # 一、完成前端样式
 前端网页展示样式：
+
+https://shenzhoudance.github.io/superxschool/index.html
 
 https://coder-lg.github.io/superx/index.html
 
